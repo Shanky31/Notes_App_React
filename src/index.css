@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+input{
+    color:white !important;
+}
+.css-1lfthva-MuiInputBase-input-MuiFilledInput-input{
+    color:white !important;
+}
+#note-desc{
+    color:white !important;
+}
+path {
+    color:white !important;
+}
+/* path:hover{
+    color:
+} */
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root:hover{
+    color: rgb(252 211 77) !important;
+}
+#standard-search-label:hover{
+    color: rgb(252 211 77) !important;
+}
